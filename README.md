@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Hello, i’m Kevin Silvestre, passionate about web developtment and design; looking to be part of any creative & cross-functional team enviroment; Designer at heart, and coder by trade.
 
 Here are some ideas to get you started:
 
