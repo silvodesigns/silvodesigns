@@ -11,3 +11,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He\Him
 - ⚡ Fun fact: ... I have a degree in Design. | I used to take acting classes in my younger days | Pokemon was my intro to videogames 
 
+
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvodesigns)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvodesigns&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
