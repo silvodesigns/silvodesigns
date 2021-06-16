@@ -1,4 +1,5 @@
-### Hi there 👋, Hello, i’m Kevin Silvestre, passionate about web developtment and design; looking to be part of any creative & cross-functional team enviroment; Designer at heart, and coder by trade.
+### FULL STACK WEB DEVELOPER
+
 
 Here are some ideas to get you started:
 
@@ -10,7 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Fastest way is gmail: kevsilvo@gmail.com 
 - 😄 Pronouns: ... He\Him
 - ⚡ Fun fact: ... I have a degree in Design. | I used to take acting classes in my younger days | Pokemon was my intro to videogames 
-
 
 
 
