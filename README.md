@@ -1,7 +1,7 @@
 
 ## Tech Stack
 
-HTML , CSS , JS, LESS , Node.js , Python , SQL, Postgres, SQLAlchemy , React , Redux 
+HTML , CSS , JS, LESS , Node.js , Python , SQL , React , Redux 
 
 
 ## About me
