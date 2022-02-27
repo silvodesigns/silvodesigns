@@ -1,21 +1,24 @@
 
-## Tech Stack
+## Tech Stack ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/3752?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
-HTML , CSS , JS, LESS , Node.js , Python , SQL , React , Redux 
+HTML , CSS , JS, Python
+
+## Front-End FrameWorks:
+REACT, REDUX
+
+## Extra:
+Node.js  SQL 
 
 
 ## About me
 
-I am a Full Stack Web Developer. I have a background in Design. I transitioned into web development after taking a web design class at Lesley University and being drawn by curiosity  to translate the designs to living and working pages. I had  completed a Front-End Dev course at Udacity  but I decided to dig deeper and signed up for Lambda School's Full-Stack & Computer Science program; now I am looking for my first opportunity to start off my career as a Sofware Engineer.
-
-
+I am Front-End Web Developer. I am currently working as a Web Developer Remotely as a contractor but I am currently looking for a salaried position. My bread and butter are HTML, CSS, REACT & Redux; Basically anything Front-End. I am trained in back-end using SQL and building web APIs using Node.js. I use Python for solving algorithms questions and practice. If you are looking for a Front-End or React Developer please reach out.
 
 
 - 🔭 I’m currently working on ... My personal website [here](https://kevinsilvestre.me/)
-- 💬 Ask me about ...  Anything Creative, Design & Dev/ also a video game nerd at heart.
-- 📫 How to reach me: ... Fastest way is gmail: kevsilvo@gmail.com 
-- ⚡ Fun fact: ... I have a degree in Design. | I used to take acting classes in my younger days | Pokemon was my intro to videogames 
-
+- 💬 Ask me about ...  Anything Tech, Front-End Dev & Design.
+- 📫 How to reach me: ... Fastest way is gmail: kevinjsilvestre@icloud.com
+- ⚡ Fun fact: ... I have a degree in Design. | I used to take acting classes in my younger days | Pokemon was my intro to videogames.
 
 
 
